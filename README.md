@@ -47,4 +47,4 @@ I value runnable setup instructions, tests that check behavior, and clear bounda
 
 - [FlintFramePro](https://github.com/BhavyaPatel0306/AI-Powered-Invoice-App): voice-assisted invoice prototype with simulated payments.
 - [BigQuery Release Notes Explorer](https://github.com/BhavyaPatel0306/bigquery-release-notes-app): Flask and JavaScript feed exploration and sharing drafts.
-- [Computer Organization Labs](https://github.com/BhavyaPatel0306/coe328-computer-ogranization-labs): digital-logic coursework and design artifacts.
+- [Computer Organization Labs](https://github.com/BhavyaPatel0306/coe328-computer-organization-labs): digital-logic coursework and design artifacts.
